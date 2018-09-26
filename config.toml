@@ -4,3 +4,15 @@ title = "Stellar Site"
 theme = "hugoBase"
 
 
+description = "I dont making web site"
+  mainIcon = "/img/hugo-logo-med.PNG"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/"
