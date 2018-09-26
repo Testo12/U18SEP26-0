@@ -5,7 +5,7 @@ theme = "hugoBase"
 
 
 description = "I dont making web site"
-  mainIcon = "/img/hugo-logo-med.PNG"
+  mainIcon = "/img/logo.png"
 
 [[params.social]]
     title = "twitter"
