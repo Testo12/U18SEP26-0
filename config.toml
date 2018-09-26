@@ -1,7 +1,7 @@
 baseURL = "https://sleepy-almeida-8cd155.netlify.com/"
 languageCode = "en-us"
 title = "Stellar Site"
-theme = "hugo-stellar-theme"
+theme = "hugoBase"
 
 
 [params]
