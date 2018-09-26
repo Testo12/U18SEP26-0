@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Stellar Site"
 theme = "hugoBase"
 
-
+[params]
 description = "I dont making web site"
   mainIcon = "/img/logo.png"
 
