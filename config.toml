@@ -1,6 +1,6 @@
 baseURL = "https://sleepy-almeida-8cd155.netlify.com/"
 languageCode = "en-us"
-title = "Stellar Site"
+title = "Stellar Site 2018"
 theme = "hugoBase"
 
 [params]
